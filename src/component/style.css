@@ -1,0 +1,13 @@
+#but{
+    background-color: rgba(0, 0, 255, 0.863);
+    border-color: rgb(63, 51, 105);
+    color: aliceblue;
+    touch-action: cross-slide-x;
+    border-radius: 20%;
+}
+#title{
+    color:rgb(16, 2, 43);
+}
+#res{
+    color:rgb(9, 31, 129);
+}
